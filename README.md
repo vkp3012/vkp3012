@@ -1,6 +1,6 @@
 # Vivek Kumar Patel
 - 👋 Hi, I’m @vkp3012
-- 👀 I’m interested in Web Development | Data Analysis
+- 👀 I’m interested in Web Development | Data Analysis |
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me  --- vivekece1116@gmail.com | 
