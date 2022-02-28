@@ -3,7 +3,7 @@
 - 👀 I’m interested in Web Development | Data Analysis
 - 🌱 I’m currently learning Web Development | Data Structures & Algorithms using Java
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me  --- vivekece1116@gmail.com 
+- 📫 How to reach me  --- vivekece1116@gmail.com | vivekece1116@outlook.com
 - 💻👨‍💻...................
 
 <!---
