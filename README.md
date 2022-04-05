@@ -32,6 +32,38 @@
 
 <br>
 
+
+<!-- ### 📊 Github Stats -->
+<details>
+<summary><b> 📊 Github Stats</b></summary>
+<div align="center">
+ 
+[![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=vkp3012&count_private=true&show_icons=true&theme=radical)](https://github.com/goelabhishek694)
+ 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vkp3012&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![wakatime](https://wakatime.com/badge/user/218b72ee-1d68-4698-b490-4304f99c8280.svg)](https://wakatime.com/@vkp3012)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=vkp3012&theme=onedark&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=vkp3012&theme=dark)
+ </div>
+ </details>
+
+
+
+<!-- <br> -->
+<p align="center">💙 If you like my projects, Give them ⭐ and Share it with friends!</p>
+</p>
+<p align="center">Made with ❤️ by Vivek Kumar Patel</p>
+<!-- <h1 align='center'>⚡️<i></i>⚡️</h1> -->
+
+<p align="center">
+        <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
+<!-- ### 🛠️ My Projects
+<a href="" target="_blank"> <img alt="passwordkeeper" src="./projects/passwordkeeper.svg" height="68" align="left"> </a> -->
+
 <!---
 vkp3012/vkp3012 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
