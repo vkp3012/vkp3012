@@ -3,7 +3,7 @@
 - 👋 Hi, I’m @vkp3012
 - 👀 I’m interested in Web Development | Data Analysis
 - 🌱 I’m currently learning Web Development | Data Structures & Algorithms using Java
-- 📫 How to reach me  --- vivekece1116@gmail.com | vivekece1116@outlook.com
+- 📫 How to reach me  --- vivekece1116@gmail.com | vivekece1116@outlook.com | vivekece19@gmail.com
 - 💻👨‍💻...................
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
