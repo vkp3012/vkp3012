@@ -36,7 +36,7 @@
 <!-- ### 📊 Github Stats -->
 <details>
 <summary><b> 📊 Github Stats</b></summary>
-<div align="center">
+<div align="center"  margin:4px>
  
 [![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=vkp3012&count_private=true&show_icons=true&theme=radical)](https://github.com/vkp3012)
  
