@@ -38,7 +38,7 @@
 <summary><b> 📊 Github Stats</b></summary>
 <div align="center">
  
-[![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=vkp3012&count_private=true&show_icons=true&theme=radical)](https://github.com/goelabhishek694)
+[![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=vkp3012&count_private=true&show_icons=true&theme=radical)](https://github.com/vkp3012)
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vkp3012&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
